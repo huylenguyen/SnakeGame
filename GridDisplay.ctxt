@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=GridDisplay(int)
+comment0.text=\r\n\ Creates\ a\ two-dimensional\ array\ of\ JPanels\ with\ the\ required\ size\r\n\ @param\ size\ The\ size\ of\ the\ game\ grid\r\n
+comment1.params=row\ col\ maxRow\ color
+comment1.target=void\ paintComponent(int,\ int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Retrieve\ the\ component\ at\ the\ given\ position\ in\ the\ grid\ and\ set\ its\ background\ colour.\r\n\ @param\ row\ The\ row\ position\ of\ the\ component.\r\n\ @param\ col\ The\ column\ position\ of\ the\ component.\r\n\ @param\ color\ The\ color\ to\ set\ this\ component\ to.\r\n
+comment2.params=tile\ color
+comment2.target=void\ paintComponent(Tile,\ java.awt.Color)
+comment2.text=\r\n\ Update\ a\ single\ tile\ with\ their\ respective\ colour.\r\n\ @param\ tile\ The\ tile\ to\ repaint.\r\n\ @param\ color\ The\ color\ of\ the\ tile\r\n
+comment3.params=colours\ snake\ fruit
+comment3.target=void\ paintComponents(java.util.HashMap,\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.text=\r\n\ Updates\ all\ the\ occupied\ tiles\ with\ their\ respective\ colour.\r\n\ @param\ colours\ The\ list\ of\ tile\ types\ and\ their\ respective\ colour.\r\n\ @param\ snake\ List\ of\ snake\ tiles\r\n\ @param\ fruit\ List\ of\ fruit\ tile\r\n
+numComments=4

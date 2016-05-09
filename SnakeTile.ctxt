@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=grid\ location
+comment0.target=SnakeTile(Grid,\ Location)
+comment0.text=\r\n\ Creates\ a\ SnakeTile\ object\ in\ the\ given\ location\ in\ the\ grid.\r\n\ @param\ grid\ The\ grid\ to\ assign\ the\ tile\ to.\r\n\ @param\ location\ The\ location\ of\ the\ tile\ on\ the\ grid.\r\n
+comment1.params=grid\ row\ col
+comment1.target=SnakeTile(Grid,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ SnakeTile\ object\ in\ the\ given\ coordinates\ in\ the\ grid\r\n\ @param\ grid\ The\ grid\ to\ assign\ the\ tile\ to.\r\n\ @param\ row\ The\ row\ the\ tile\ belongs\ to.\r\n\ @param\ col\ The\ col\ the\ tile\ belongs\ to.\r\n
+comment2.params=
+comment2.target=void\ sane()
+comment2.text=\r\n\ Ensures\ the\ SnakeTile\ object\ exists\ on\ the\ grid\r\n
+comment3.params=location
+comment3.target=void\ setLocation(Location)
+comment3.text=\r\n\ Places\ the\ tile\ at\ a\ location\ in\ the\ grid\r\n\ @param\ location\ The\ location\ to\ set\ the\ tile\ in\r\n
+comment4.params=
+comment4.target=boolean\ isEdible()
+comment4.text=\r\n\ Returns\ whether\ or\ not\ this\ tile\ can\ be\ passed\ through\ by\ the\ snake\r\n
+comment5.params=
+comment5.target=Grid\ getGrid()
+comment5.text=\r\n\ Returns\ the\ grid\ the\ tile\ is\ in\r\n
+comment6.params=
+comment6.target=Location\ getLocation()
+comment6.text=\r\n\ Returns\ the\ location\ of\ the\ grid\ the\ tile\ is\ in\r\n
+numComments=7

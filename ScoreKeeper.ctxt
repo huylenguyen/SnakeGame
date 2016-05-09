@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreKeeper()
+comment0.text=\r\n\ Creates\ a\ ScoreKeeper\ object\ and\ sets\ the\ score\ to\ 0\r\n
+comment1.params=newScore
+comment1.target=void\ setHighScore(int)
+comment1.text=\r\n\ Sets\ the\ value\ of\ the\ highscore\r\n\ @param\ newScore\ The\ new\ highscore\r\n
+comment2.params=
+comment2.target=int\ getHighScore()
+comment2.text=\r\n\ Returns\ the\ score\ of\ the\ game\r\n
+numComments=3

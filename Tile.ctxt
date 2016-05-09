@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEdible()
+comment0.text=\r\n\ Returns\ whether\ or\ not\ this\ tile\ can\ be\ eaten\ by\ the\ snake.\r\n\ If\ the\ tile\ isn't\ edible,\ it\ also\ cannot\ be\ passed\ through\ and\ will\ kill\ the\ snake.\r\n
+comment1.params=
+comment1.target=Grid\ getGrid()
+comment1.text=\r\n\ Returns\ the\ grid\ the\ tile\ is\ in\r\n
+comment2.params=
+comment2.target=Location\ getLocation()
+comment2.text=\r\n\ Returns\ the\ location\ of\ the\ grid\ the\ tile\ is\ in\r\n
+comment3.params=location
+comment3.target=void\ setLocation(Location)
+comment3.text=\r\n\ Places\ the\ tile\ at\ a\ location\ in\ the\ grid\r\n\ @param\ location\ The\ location\ to\ set\ the\ tile\ in\r\n
+numComments=4

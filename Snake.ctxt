@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=grid\ headTile\ middleTile\ tailTile
+comment0.target=Snake(Grid,\ SnakeTile,\ SnakeTile,\ SnakeTile)
+comment0.text=\r\n\ Creates\ a\ snake\ object\ with\ 3\ tiles\r\n\ @param\ headTile\ The\ head\ tile\ of\ the\ snake\r\n\ @param\ middleTile\ The\ body\ tile\ of\ the\ snake\r\n\ @param\ tailTile\ The\ tail\ tile\ of\ the\ snake\r\n
+comment1.params=
+comment1.target=void\ sane()
+comment1.text=\r\n\ Ensures\ the\ snake\ is\ not\ empty,\ and\ exists\ on\ the\ grid\r\n
+comment2.params=direction
+comment2.target=boolean\ canMove(Direction)
+comment2.text=\r\n\ Check\ the\ location\ from\ the\ given\ direction\ to\ the\ snake\ for\ movement.\r\n\ If\ the\ required\ location\ has\ a\ tile\ that\ is\ not\ edible,\ return\ false.\r\n\ @return\ Returns\ false\ if\ location\ cannot\ be\ moved\ to,\ true\ otherwise.\r\n
+comment3.params=
+comment3.target=boolean\ move()
+comment3.text=\r\n\ Move\ the\ snake\ to\ the\ next\ location\r\n\ @return\ If\ the\ snake\ eats\ a\ fruit\ during\ this\ step,\ return\ true.\ Otherwise\ false.\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getSnakeTiles()
+comment4.text=\r\n\ Returns\ the\ snake\ as\ an\ ArrayList\ of\ SnakeTiles\r\n
+numComments=5

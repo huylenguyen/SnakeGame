@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=row\ col
+comment0.target=Location(int,\ int)
+comment0.text=\r\n\ Creates\ a\ Location\ with\ the\ given\ coordinates.\r\n\ @param\ row\ The\ row\ of\ this\ location\ in\ the\ grid\r\n\ @param\ col\ The\ column\ of\ this\ location\ in\ the\ grid\r\n
+comment1.params=
+comment1.target=int\ getRow()
+comment1.text=\r\n\ Return\ the\ row\ value\ of\ the\ location\r\n\ @return\ The\ row\ variable\r\n
+comment2.params=
+comment2.target=int\ getCol()
+comment2.text=\r\n\ Return\ the\ column\ value\ of\ the\ location\r\n\ @return\ The\ col\ variable\r\n
+comment3.params=size
+comment3.target=Location\ getRandomLocation(int)
+comment3.text=\r\n\ Returns\ a\ random\ location\ in\ a\ grid\r\n\ @param\ size\ The\ size\ of\ the\ grid\r\n\ @return\ The\ Location\ object\r\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=window
+comment0.target=DisplayOptions(GameWindow)
+comment0.text=\r\n\ Creates\ a\ new\ JPanel\ that\ contains\ the\ input\ fields\ and\ a\ reset\ button\ to\ update\ the\ game\r\n\ @param\ window\ The\ centralised\ ActionListener\ to\ handle\ ActionEvent\ objects\ \r\n\ \ \ \ \ \ from\ this\ component\r\n
+comment1.params=
+comment1.target=int\ getColourScheme()
+comment1.text=\r\n\ Returns\ the\ value\ of\ the\ colour\ scheme\ input\r\n
+comment2.params=
+comment2.target=int\ getGridSize()
+comment2.text=\r\n\ Returns\ the\ value\ of\ the\ grid\ size\ input\r\n
+comment3.params=
+comment3.target=javax.swing.JSpinner\ getSizeSpinner()
+comment3.text=\r\n\ Returns\ the\ size\ JSpinner\r\n
+comment4.params=
+comment4.target=javax.swing.JSpinner\ getColourSpinner()
+comment4.text=\r\n\ Returns\ the\ colourScheme\ JSpinner\r\n
+numComments=5
